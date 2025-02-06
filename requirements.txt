@@ -9,3 +9,4 @@ Flask==3.0.3
 dash==2.18.2
 beautifulsoup4==4.12.3
 pytest==7.5.0
+sqlalchemy==2.0.14 
